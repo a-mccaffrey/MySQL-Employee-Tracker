@@ -2,7 +2,7 @@
   "name": "mysql-employee-tracker",
   "version": "1.0.0",
   "description": "a solution for managing a company's employees using node, inquirer, and MySQL",
-  "main": "employeeTracker.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
